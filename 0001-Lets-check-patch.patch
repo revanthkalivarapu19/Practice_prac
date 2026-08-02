@@ -1,0 +1,26 @@
+From a6531b8b1f7e307ed68bd09d37e7f282739372ba Mon Sep 17 00:00:00 2001
+From: Revanth Kalivarapu <revanth.k19112006@gmail.com>
+Date: Sun, 2 Aug 2026 23:16:45 +0530
+Subject: [PATCH] Lets check patch
+
+---
+ forkprac.py | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/forkprac.py b/forkprac.py
+index 700f5d4..4acbc2b 100644
+--- a/forkprac.py
++++ b/forkprac.py
+@@ -4,4 +4,6 @@ print("New feature added trying to compare merge conflict")
+ print("Succesfully your request merged")
+ 
+ print("Hey man here i added new info about git patch command")
+-print("SO basically a git patch command creates a text file which contains differences betwen current working file and previous commit version")
+\ No newline at end of file
++print("SO basically a git patch command creates a text file which contains differences betwen current working file and previous commit version")
++
++print("Hey man i man testing git patch command okayy okayy hello risheeth")
+\ No newline at end of file
+-- 
+2.52.0.windows.1
+
