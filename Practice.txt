@@ -5,7 +5,7 @@
 > `Docker file, Single containerization.docx`, and `Maven Java and Web Projects.docx`.
 > Each heading is a command (or a step), and beside it is what it does.
 
----
+---------
 
 ## 1. Git — Version & Configuration
 
